@@ -1,0 +1,10 @@
+^D:\LEARN\VCC\4.1\CMAKEFILES\108ED0FAC109204163EEADFD47CAA246\GENERATE.STAMP.RULE
+setlocal
+D:\software\cmake\bin\cmake.exe -SD:/learn/vcc/4.1 -BD:/learn/vcc/4.1 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/learn/vcc/4.1/main.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

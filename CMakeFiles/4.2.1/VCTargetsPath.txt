@@ -1,0 +1,1 @@
+D:/software/vs2026/shared/MSBuild/Microsoft/VC/v180

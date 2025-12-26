@@ -1,0 +1,8 @@
+# ninja log v6
+34	1186	7879977960376777	CMakeFiles/main.dir/glad.c.obj	325d228cac5b27d3
+4	1253	7879977960039464	CMakeFiles/main.dir/Camera.cpp.obj	76b4e9af082571b2
+11	1265	7879977960198768	CMakeFiles/main.dir/InitShader.cpp.obj	44a963abf1a1d6e5
+43	1273	7879977960524696	CMakeFiles/main.dir/main.cpp.obj	2cee4f03e6ff7394
+26	1340	7879977960376777	CMakeFiles/main.dir/TriMesh.cpp.obj	3bc530bbfb2ba5d3
+17	1357	7879977960257022	CMakeFiles/main.dir/MeshPainter.cpp.obj	7d0f877eab3e61e0
+1358	5147	7879977973612140	main.exe	1f0602b70558bb3

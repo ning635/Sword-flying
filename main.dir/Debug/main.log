@@ -1,0 +1,49 @@
+﻿  main.cpp
+D:\learn\vcc\4.1\include\Angel.h(64,40): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+  (compiling source file 'main.cpp')
+  
+D:\learn\vcc\4.1\include\Camera.h(46,16): warning C4305: “初始化”: 从“double”到“float”截断
+  (compiling source file 'main.cpp')
+  
+D:\learn\vcc\4.1\main.cpp(159,36): warning C4305: “参数”: 从“double”到“float”截断
+D:\learn\vcc\4.1\main.cpp(159,29): warning C4305: “参数”: 从“double”到“float”截断
+D:\learn\vcc\4.1\main.cpp(200,38): warning C4305: “参数”: 从“double”到“float”截断
+D:\learn\vcc\4.1\main.cpp(215,36): warning C4305: “参数”: 从“double”到“float”截断
+D:\learn\vcc\4.1\main.cpp(279,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(280,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(281,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(323,41): warning C4305: “参数”: 从“double”到“float”截断
+D:\learn\vcc\4.1\main.cpp(323,35): warning C4305: “参数”: 从“double”到“float”截断
+D:\learn\vcc\4.1\main.cpp(366,42): warning C4305: “参数”: 从“double”到“float”截断
+D:\learn\vcc\4.1\main.cpp(366,35): warning C4305: “参数”: 从“double”到“float”截断
+D:\learn\vcc\4.1\main.cpp(376,42): warning C4305: “参数”: 从“double”到“float”截断
+D:\learn\vcc\4.1\main.cpp(376,35): warning C4305: “参数”: 从“double”到“float”截断
+D:\learn\vcc\4.1\main.cpp(648,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(648,34): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(649,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(650,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(665,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(666,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(667,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(680,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(723,29): warning C4305: “参数”: 从“double”到“float”截断
+D:\learn\vcc\4.1\main.cpp(723,24): warning C4305: “参数”: 从“double”到“float”截断
+D:\learn\vcc\4.1\main.cpp(734,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\learn\vcc\4.1\main.cpp(734,20): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\learn\vcc\4.1\main.cpp(734,15): warning C4305: “参数”: 从“double”到“GLfloat”截断
+D:\learn\vcc\4.1\main.cpp(748,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(749,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(779,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(780,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(834,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(964,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(965,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(976,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(977,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(978,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(1072,60): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(1114,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(1206,24): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(1207,24): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\learn\vcc\4.1\main.cpp(1221,29): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+  main.vcxproj -> D:\learn\vcc\4.1\Debug\main.exe
